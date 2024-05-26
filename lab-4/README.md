@@ -1,0 +1,1 @@
+While significant progress was made, I was unable to complete this lab due to facing multiple difficulties and the lack of time to resolve these problems. Despite these challenges, I learned valuable lessons in data preprocessing and model implementation, gaining practical experience in web scraping, text preprocessing, and training various NLP models including RNN, GRU, LSTM
