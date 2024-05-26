@@ -1,0 +1,1 @@
+Working on this code helped me learn how to use regular expressions for pattern identifying and extraction, as well as how to manipulate strings to extract specific information. One difficulty I encountered was handling variations in user input, such as different ways of specifying quantities and unit prices. 
